@@ -1,0 +1,86 @@
+commit 7b6662e6ab8d3a7cf90926af64ea2f5e33b6b333
+Author: Nathan Buccowich <nbuccowich@gmail.com>
+Date:   Thu Jun 2 15:29:20 2016 -0700
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 5f0f37a..ed4492c 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+-Nathan Buccowich Computer Science Veggie Grill Toy Story 3
+\ No newline at end of file
++Nathan Buccowich Computer Science Veggie Grill Toy Story 3
++Mountain Meadow
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index eb6644c..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2017 Savior of Human Race
+\ No newline at end of file
+
+commit 007f24e4b8f5758ce189391d82d2ba820ff5800b
+Author: Nathan Buccowich <nbuccowich@gmail.com>
+Date:   Thu Jun 2 15:23:46 2016 -0700
+
+    Added grad year and job
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..eb6644c
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2017 Savior of Human Race
+\ No newline at end of file
+
+commit 69deb21f8e76e6a64140327e60874284c7e252cf
+Author: Nathan Buccowich <nbuccowich@gmail.com>
+Date:   Thu Jun 2 15:01:10 2016 -0700
+
+    Added favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index c0ce49f..5f0f37a 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Nathan Buccowich Computer Science
+\ No newline at end of file
++Nathan Buccowich Computer Science Veggie Grill Toy Story 3
+\ No newline at end of file
+
+commit 6d7d759ab0a266d23affc543eee1a4d14a8faa82
+Author: Nathan Buccowich <nbuccowich@gmail.com>
+Date:   Thu Jun 2 14:53:30 2016 -0700
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 731ec98..c0ce49f 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Nathan Buccowich #52203004
+\ No newline at end of file
++Nathan Buccowich Computer Science
+\ No newline at end of file
+
+commit 9936f87f7f32959144bbe2e059e935727dbdae80
+Author: Nathan Buccowich <nbuccowich@gmail.com>
+Date:   Thu Jun 2 14:47:08 2016 -0700
+
+    My first backup.
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..731ec98
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Nathan Buccowich #52203004
+\ No newline at end of file
